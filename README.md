@@ -118,6 +118,3 @@ I’m particularly interested in:
 
 📂 GitHub: You're already here 😄
 
----
-
-⭐ If you find my projects useful, feel free to star them!
