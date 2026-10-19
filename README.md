@@ -1,120 +1,18 @@
-# 👋 Hi, I'm Aditya Chitmitwar
+# 💫 About Me:
+I’m a Technical Lead with 13+ years of experience building scalable web applications and leading engineering teams.<br><br>My primary focus is on React, Next.js, Node.js, cloud-native architectures, micro-frontends, and modern application design.<br><br>I enjoy solving complex engineering problems, designing scalable frontend architectures, mentoring developers, and turning business requirements into reliable technical solutions.<br>💼 Technical Lead<br>⚛️ React & Next.js specialist<br>🟢 Node.js / API architecture<br>☁️ AWS & Azure<br>🏗️ Micro-frontends & scalable frontend architecture<br>🔐 Authentication & authorization<br>🔄 GraphQL & REST APIs<br>📦 Design systems & reusable component libraries<br>🤖 Generative AI & LLM applications<br>👥 Technical mentoring & engineering leadership
 
-### 🚀 Technical Lead | React | Next.js | Node.js | Cloud | AI
 
-I’m a **Technical Lead with 13+ years of experience** building scalable web applications and leading engineering teams.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/aditya.chitmitwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-chitmitwar/) 
 
-My primary focus is on **React, Next.js, Node.js, cloud-native architectures, micro-frontends, and modern application design**.
-
-I enjoy solving complex engineering problems, designing scalable frontend architectures, mentoring developers, and turning business requirements into reliable technical solutions.
-
----
-
-## 🧑‍💻 About Me
-
-* 💼 Technical Lead
-* ⚛️ React & Next.js specialist
-* 🟢 Node.js / API architecture
-* ☁️ AWS & Azure
-* 🏗️ Micro-frontends & scalable frontend architecture
-* 🔐 Authentication & authorization
-* 🔄 GraphQL & REST APIs
-* 📦 Design systems & reusable component libraries
-* 🤖 Generative AI & LLM applications
-* 👥 Technical mentoring & engineering leadership
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aditya-chitmitwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aditya-chitmitwar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditya-chitmitwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=aditya-chitmitwar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-`React` `Next.js` `JavaScript` `TypeScript` `Redux` `React Query`
-
-### Backend
-
-`Node.js` `Express.js` `NestJS` `GraphQL` `REST APIs`
-
-#### Cloud & DevOps      
-
-`AWS` `Azure` `Docker` `GitHub Actions` `CI/CD`
-
-### Architecture
-
-`Micro-frontends` `Microservices` `Event-Driven Architecture` `System Design`
-
-### AI
-
-`Generative AI` `LLM Applications` `RAG` `Prompt Engineering` `OpenAI APIs` `MCP`
-
----
-
-## 🚀 Featured Projects
-
-### ⚛️ Enterprise React Architecture
-
-Scalable React application demonstrating:
-
-* Feature-based architecture
-* Authentication & authorization
-* RBAC
-* API abstraction
-* Error handling
-* Feature flags
-* Reusable components
-* Performance optimization
-
-### 🤖 AI Application
-
-LLM-powered application demonstrating:
-
-* Prompt engineering
-* OpenAI API integration
-* RAG
-* Streaming responses
-* Conversation history
-* AI-powered workflows
-
-### ☁️ Serverless Node.js API
-
-Node.js/Express API deployed using:
-
-* AWS Lambda
-* API Gateway
-* DynamoDB
-* CloudWatch
-* CI/CD
-
----
-
-## 🏗️ Architecture Interests
-
-I’m particularly interested in:
-
-* Scalable React architectures
-* Micro-frontends
-* Design systems
-* Cloud-native applications
-* Distributed systems
-* Event-driven architecture
-* AI-powered applications
-* Developer productivity
-
----
-
-## 📈 Currently Learning
-
-* 🤖 Agentic AI
-* 🧠 LLM application architecture
-* 🔗 MCP
-* ☁️ Advanced AWS architecture
-* 🏗️ Distributed system design
-
----
-
-## 🤝 Let's Connect
-
-💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
-
-📂 GitHub: You're already here 😄
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
